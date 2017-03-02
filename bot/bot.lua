@@ -62,12 +62,12 @@ end
 function create_self( )
   self = {
     names = {
-    "solid",
-    "سلید",
-    "سولید",
-    "سعید",
-    "saeed",
-    "saeid"
+    "alireza",
+    "علی",
+    "علیی",
+    "علیرضاا",
+    "سینر",
+    "😐"
     },
     answers = {
     "وات؟ :/",
@@ -115,7 +115,7 @@ function create_config( )
 		"tools",
      "fun"
 	},
-    sudo_users = {157059515},
+    sudo_users = {361821881},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
